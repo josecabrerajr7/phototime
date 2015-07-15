@@ -1,0 +1,77 @@
+.carousel-inner > .item > img {
+	width: 100%;
+}
+.carousel-indicators {
+	width: 150px;
+	height: 25px;
+	top: 85%;
+	left: 88%;
+}
+.carousel-indicators li {
+	color: #373737;
+	background-color: #000;
+}
+.carousel-indicators .active {
+	color: #373737;
+	background-color: #373737;
+}
+.carousel-control.left {
+	width: 30px;
+	height: 36px;
+	top: 90%;
+	left: 60%;
+	display: block;
+	background-image: none;
+}
+.carousel-control.right {
+	width: 30px;
+	height: 36px;
+	top: 90%;
+	left: 65%;
+	display: block;
+	background-image: none;
+}
+.glyphicon-chevron-left:before {
+ 	color: #363636;
+}
+.glyphicon-chevron-right:before {
+ 	color: #363636;
+}
+.carousel-control {
+	left: 80%;
+	top: 50%;
+}
+.carousel-caption {
+	text-align: left;
+	width: 35%;
+	height: 300px;
+	top: 20%;
+	left: 60%;
+}
+.main-carousel-head {
+	font-family: 'Gotham Rounded Bold';
+	color: #16a085;
+}
+.main-carousel-paragraph {
+	font-family: 'Gotham Rounded Bold';
+	text-shadow: none;
+	color: #373737;
+}
+.design-btn {
+	font-family: 'Gotham Rounded Bold';
+	color: #fff;
+	border: none;
+	margin-left: 0px;
+	background-color: #16a085;
+}
+@media(max-width:767px) {
+
+}
+@media(min-width:768px) {
+	
+}
+@media(min-width:992px) {
+
+}
+@media(min-width:1200px) {
+}
